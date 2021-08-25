@@ -10,3 +10,5 @@ The game includes customizable backgrounds and music and soundFX volume sliders 
 
 The various values that are displayed in the game are updated via the use of Listeners with the use of message parsing from the communicator that acts as the link from 
 the web server the game is run on to the actual game.
+
+The game was developed and managed with the use of Maven.
